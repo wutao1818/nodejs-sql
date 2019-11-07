@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wutao1818/nodejs-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wutao1818/nodejs-sql/issues"
+  },
+  "homepage": "https://github.com/wutao1818/nodejs-sql#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
